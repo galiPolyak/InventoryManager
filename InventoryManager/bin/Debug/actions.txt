@@ -1,0 +1,18 @@
+Display2:Movie
+Display2:Game
+Display2:Top
+Add:Movie,The Matrix,6.99,076950450479,Action,DVD,1999,Wachowski Brothers,R,136
+Add:Game,Halo Reach,59.99,614141007349,FPS,Microsoft,2010,M,91
+Add:Top,GAP,19.99,567890543312,Cotton,T-Shirt,XL
+SortByName
+Display2:Movie
+Display2:Game
+Display2:Top
+FindBarcode:076950450479:Modify:18.95
+FindBarcode:076950450479:Display
+FindName:Halo Reach:Modify:0:59.99
+SortByCost
+Display2:Game
+Display2:Book
+FindBarcode:567890543312:Delete
+Display2:Top

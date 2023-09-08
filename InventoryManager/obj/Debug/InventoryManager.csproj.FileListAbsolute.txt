@@ -1,0 +1,6 @@
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS2/InventoryManager/InventoryManager/bin/Debug/InventoryManager.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS2/InventoryManager/InventoryManager/bin/Debug/InventoryManager.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS2/InventoryManager/InventoryManager/obj/Debug/InventoryManager.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS2/InventoryManager/InventoryManager/obj/Debug/InventoryManager.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS2/InventoryManager/InventoryManager/obj/Debug/InventoryManager.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS2/InventoryManager/InventoryManager/obj/Debug/InventoryManager.csproj.AssemblyReference.cache

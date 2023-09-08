@@ -1,0 +1,147 @@
+Type: Movie
+Name: MovieName_4
+Cost: 29.97
+Barcode: 000000000004
+Genre: Action
+Platform: Blu-Ray
+Release Year: 1996
+Director: DirectorName_4
+MPAA Rating: R
+Duration: 240
+
+Type: Movie
+Name: MovieName_12
+Cost: 29.76
+Barcode: 000000000012
+Genre: Adventure
+Platform: DVD
+Release Year: 1975
+Director: DirectorName_12
+MPAA Rating: PG-13
+Duration: 126
+
+Type: Game
+Name: GameName_2
+Cost: 77.37
+Barcode: 000000000002
+Genre: RPG
+Platform: Nintendo
+Release Year: 2000
+Rating: M
+Score: 100
+
+Type: Game
+Name: Halo Reach
+Cost: 59.99
+Barcode: 614141007349
+Genre: FPS
+Platform: Microsoft
+Release Year: 2010
+Rating: M
+Score: 91
+
+No products of type Top found.
+
+Type: Movie
+Name: MovieName_12
+Cost: 29.76
+Barcode: 000000000012
+Genre: Adventure
+Platform: DVD
+Release Year: 1975
+Director: DirectorName_12
+MPAA Rating: PG-13
+Duration: 126
+
+Type: Movie
+Name: MovieName_4
+Cost: 29.97
+Barcode: 000000000004
+Genre: Action
+Platform: Blu-Ray
+Release Year: 1996
+Director: DirectorName_4
+MPAA Rating: R
+Duration: 240
+
+Type: Game
+Name: GameName_10
+Cost: 39.22
+Barcode: 000000000010
+Genre: Adventure
+Platform: Microsoft
+Release Year: 2017
+Rating: M
+Score: 43
+
+Type: Game
+Name: GameName_2
+Cost: 77.37
+Barcode: 000000000002
+Genre: RPG
+Platform: Nintendo
+Release Year: 2000
+Rating: M
+Score: 100
+
+Type: Top
+Name: GAP
+Cost: 19.99
+Barcode: 567890543312
+Material: Cotton
+Top Style: T-Shirt
+Size: XL
+
+Type: Movie
+Name: The Matrix
+Cost: 18.95
+Barcode: 076950450479
+Genre: Action
+Platform: DVD
+Release Year: 1999
+Director: Wachowski Brothers
+MPAA Rating: R
+Duration: 136
+
+Type: Game
+Name: GameName_2
+Cost: 77.37
+Barcode: 000000000002
+Genre: RPG
+Platform: Nintendo
+Release Year: 2000
+Rating: M
+Score: 100
+
+Type: Game
+Name: Halo Reach
+Cost: 59.99
+Barcode: 614141007349
+Genre: FPS
+Platform: Microsoft
+Release Year: 2010
+Rating: M
+Score: 91
+
+Type: Book
+Name: BookName_13
+Cost: 30.74
+Barcode: 000000000013
+Genre: Adventure
+Platform: Audiobook
+Release Year: 1601
+Author: AuthorName_13
+Publisher: PublisherName_13
+
+Type: Book
+Name: BookName_5
+Cost: 18.82
+Barcode: 000000000005
+Genre: Adventure
+Platform: Audiobook
+Release Year: 1695
+Author: AuthorName_5
+Publisher: PublisherName_5
+
+No products of type Top found.
+

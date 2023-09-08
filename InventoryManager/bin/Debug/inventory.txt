@@ -1,0 +1,18 @@
+Dress,DressBrandname_14,64.06,000000000014,Spandex,Formal Gown,XL
+Dress,DressBrandname_11,61.47,000000000011,Spandex,Sun Dress,M
+Pants,PantsBrandname_8,58.15,000000000008,Canvas,31
+Pants,PantsBrandname_0,50.15,000000000000,Cotton,32
+Pants,PantsBrandname_9,23.89,000000000009,Canvas,48
+Book,BookName_13,30.74,000000000013,Adventure,Audiobook,1601,AuthorName_13,PublisherName_13
+Book,BookName_5,18.82,000000000005,Adventure,Audiobook,1695,AuthorName_5,PublisherName_5
+Book,BookName_1,12.92,000000000001,Lit-RPG,Audiobook,1962,AuthorName_1,PublisherName_1
+Game,GameName_2,77.37,000000000002,RPG,Nintendo,2000,M,100
+Game,Halo Reach,59.99,614141007349,FPS,Microsoft,2010,M,91
+Game,Halo Reach,59.99,614141007349,FPS,Microsoft,2010,M,91
+Game,GameName_10,39.22,000000000010,Adventure,Microsoft,2017,M,43
+Movie,MovieName_4,29.97,000000000004,Action,Blu-Ray,1996,DirectorName_4,R,240
+Movie,MovieName_12,29.76,000000000012,Adventure,DVD,1975,DirectorName_12,PG-13,126
+Movie,MovieName_7,23.61,000000000007,Action,DVD,1943,DirectorName_7,PG-13,235
+Movie,The Matrix,18.95,076950450479,Action,DVD,1999,Wachowski Brothers,R,136
+Movie,MovieName_6,11.72,000000000006,Adventure,Blu-Ray,1989,DirectorName_6,PG,113
+Movie,The Matrix,6.99,076950450479,Action,DVD,1999,Wachowski Brothers,R,136
